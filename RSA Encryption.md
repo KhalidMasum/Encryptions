@@ -1,4 +1,4 @@
-##An RSA encryption works this way.....
+#An RSA encryption works this way.....
 
 Description:
 The encryption method uses two different keys, one for public use, another is private. Public key is known by everyone,
@@ -21,7 +21,7 @@ We take the encrypted position value and use the same formulla, but we use d, in
 ### decrypted letter = 2<sup>e</sup> mod n
 
 
-## Want to be the key maker?
+# Want to be the key maker?
 
 The steps to make the keys (e,n,d) is pretty simple.
 ## Step 1: Choose prime numbers
@@ -53,7 +53,7 @@ Two conditions must be followed while choosing the number:
  d= Inverse of (e mod ψ(n))
  
  
- Now jump into coding, start making the keys, start spying <p>>_></p> hurray X3!
+ <p> Now jump into coding, start making the keys, then start spying >_> hurray X3!</p>
  
  
  
