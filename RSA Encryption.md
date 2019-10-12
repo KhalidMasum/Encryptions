@@ -17,7 +17,7 @@ Then it goes through this formulla :
 Decriptors use the private key to decrypt the message.
 ## This way:
 We take the encrypted position value and use the same formulla, but we use d, instead of e.
-### decrypted letter = 2<sup>e</sup> mod n
+### decrypted letter = [message]<sup>e</sup> mod n
 
 
 # Want to be the key maker?
