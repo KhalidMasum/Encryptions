@@ -12,7 +12,7 @@ People use the public key to encrypt their message.
 ## This way:
 We take the position value of the letter, eg. position value of b is 2.
 Then it goes through this formulla :
-### encrypted letter = 2<sup>e</sup> mod n
+### encrypted letter = [message]<sup>e</sup> mod n
 
 Decriptors use the private key to decrypt the message.
 ## This way:
